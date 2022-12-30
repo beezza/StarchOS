@@ -6,6 +6,6 @@ You can use this os any reasons
 
 ## Installation
 [WARNING]The project has not released any ISO image yet![WARNING]
-Download ISO image from (here)[https://github.com/beezza/StarchOS/releases].
+Download ISO image from [here](https://github.com/beezza/StarchOS/releases).
 Then, write ISO image to usb static using image writer(e.g. rufus, balena etcher)
 
