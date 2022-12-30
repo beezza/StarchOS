@@ -1,0 +1,7 @@
+#!/usr/bin/sh
+
+
+echo "Cleaning..."
+sudo rm -rf work
+echo "Building"
+sudo mkarchiso profile
