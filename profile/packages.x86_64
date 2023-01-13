@@ -73,7 +73,9 @@ neofetch
 nfs-utils
 nilfs-utils
 nmap
+nodejs
 noto-fonts-cjk
+npm
 ntfs-3g
 nvme-cli
 open-iscsi
@@ -85,7 +87,6 @@ partclone
 parted
 partimage
 pcsclite
-plasma
 ppp
 pptpclient
 pv
