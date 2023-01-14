@@ -1,0 +1,3 @@
+[submodule "profile/airootfs/StarchSystem"]
+	path = profile/airootfs/StarchSystem
+	url = https://github.com/beezza/StarchSystem
